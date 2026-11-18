@@ -1,6 +1,7 @@
 gradio>=5.0,<6.0
 fastapi
 uvicorn
+pillow
 pandas>=2.0
 requests>=2.31
 urllib3>=2.0
